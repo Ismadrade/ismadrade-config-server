@@ -1,0 +1,1 @@
+# ismadrade-config-server
